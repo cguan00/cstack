@@ -1,0 +1,30 @@
+push
+move
+300 400 0
+rotate
+y -30
+rotate
+x -20
+box
+0 0 0 20 250 20
+pop
+push
+move
+275 175 0
+rotate
+z -70
+rotate
+y 20
+box
+0 0 0 20 80 30
+pop
+push
+move
+300 75 0
+rotate
+x 40
+torus
+0 0 0 15 20
+display
+save
+pic.png
